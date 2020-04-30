@@ -1,5 +1,5 @@
 ---
-title:  "Starting jeonghwan.github.io Blog"
+title:  "Starting jujeonghwan.github.io Blog"
 excerpt: "I started GitHub Blog Service 'github.io'."
 
 categories:
@@ -10,7 +10,7 @@ last_modified_at: 2020-04-26T23:10:00-05:00
 ---
 
 I started GitHub Blog Service.
-The address is 'jeonghwan.github.io
+The address is 'jujeonghwan.github.io
 
 This post's title is '{{ page.title }}'.
 Last morified time is '{{ page.last_modified_at }}'.
