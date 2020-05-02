@@ -74,7 +74,7 @@ New jekyll site installed in C:/jekyll_dir/my-blog-site.
 C:\jekyll_dir>
 ```
 
-4. Chage directory to created directory and build your site.
+4. Change directory to created directory and build your site.
 * Enter **‘cd my-blog-site’** in the command prompt.
 * Enter **‘bundle exec jekyll serve’** in the command prompt.
 ```
