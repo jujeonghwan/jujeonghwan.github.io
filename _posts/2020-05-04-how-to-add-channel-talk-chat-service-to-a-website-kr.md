@@ -87,7 +87,6 @@ tags: [Chat, Chat Service, Channel Talk, 채팅, 채널톡]
 ![chat start](https://user-images.githubusercontent.com/32950391/81032077-68867880-8e5c-11ea-8971-11637ca5e595.JPG)
 
 8. 관리자 페이지에서 고객의 채팅내용을 볼 수 있고 응답할 수 있습니다.
-8. On the Admin page, you'll see customer's chat. And you can respond.
 ![check and reply](https://user-images.githubusercontent.com/32950391/81032457-e13a0480-8e5d-11ea-9f79-a830ec60b2fb.JPG)
 ![관리자 페이지](https://user-images.githubusercontent.com/32950391/81034443-32012b80-8e65-11ea-84c9-916ef9aad906.JPG)
 
