@@ -19,7 +19,7 @@ deno run --allow-net --allow-write --allow-read --allow-plugin --unstable xxx.ts
 ```
 
 4) Examples of codes
-* ##Import** Mongo module.
+* ##Import## Mongo module.
 ```javascript
 import { MongoClient } from "https://deno.land/x/mongo@v0.8.0/mod.ts";
 ```
