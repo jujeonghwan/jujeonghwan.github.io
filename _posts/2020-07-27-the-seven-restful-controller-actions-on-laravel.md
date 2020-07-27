@@ -65,4 +65,5 @@ class ArticlesController extends Controller
 # References
 ---
 Laravel From Scratch: The Seven Restful Controller Actions. Retrieved July 27, 2020, from <https://laracasts.com/series/laravel-6-from-scratch/episodes/21?autoplay=true>
+
 ---
