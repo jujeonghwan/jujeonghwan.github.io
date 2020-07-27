@@ -1,4 +1,3 @@
-
 ---
 title: "The Seven Restful Controller Actions on Laravel"
 categories: [Laravel]
